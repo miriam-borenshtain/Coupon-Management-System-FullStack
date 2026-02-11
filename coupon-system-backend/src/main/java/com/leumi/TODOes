@@ -1,0 +1,17 @@
+1. Change fields to be unique. --Done
+
+2. add coupons list when get company. --Done
+
+3. extract duplicate code to new function in the queries. --Done
+
+4. make the DBDAOs singletons. --Done
+
+5. delete the sql queries prints.
+
+6. add option to get one coupon (of specific company?) --Done
+
+7. couponSystem?? --Done
+
+8. how to do the companyId & couponTitle unique in workbench (add and update coupon companyDBDAO) --Done
+
+9. return error when get non existing id --Done

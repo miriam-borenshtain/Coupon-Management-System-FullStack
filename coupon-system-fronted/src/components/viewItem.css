@@ -1,0 +1,36 @@
+.item {
+    /* position:inherit; */
+    font-family: 'Actor';
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 5px;
+    background-color: #ba6dc985;
+    
+    border-radius: 8px;
+    /* border: black; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.exist-items{
+    position: absolute;
+    top: 300px;
+    right: 35%;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    border: lawngreen;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    color: rgb(255, 255, 255);
+    font: bold 40px 'Actor';
+    /* padding-left: 20px; */
+    /* padding-top: 40px; */
+}
+
+.delete{
+    background-color: #741188;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 8px;
+    border: 0;
+}
