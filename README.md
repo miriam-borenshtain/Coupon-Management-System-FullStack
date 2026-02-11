@@ -1,10 +1,10 @@
-Full-Stack Coupon Management System
+# Full-Stack Coupon Management System
 A comprehensive Full-Stack application designed to manage business coupons, built as part of a specialized assignment to demonstrate cross-platform integration between a Spring Boot backend and a React frontend.
 
-📋 Project Scope
+# 📋 Project Scope
 This project showcases a complete "mini-application" that handles secure user authentication and persistent data management for coupons. It bridges the gap between client-side state management and server-side relational databases.
 
-✨ Key Functionalities
+# ✨ Key Functionalities
 Role-Based Authentication: Implemented a secure Login system with a dynamic role selection (Admin/User).
 
 State Management: Utilized React Context API to manage and persist authenticated user data locally in the browser storage.
@@ -15,14 +15,14 @@ Backend (Spring Boot): Robust API endpoints to process coupon data and manage th
 
 Persistent Storage: Integrated Spring Data JPA with a relational database (MySQL/H2) for reliable data persistence.
 
-🛠️ Technical Stack
+# 🛠️ Technical Stack
 Frontend: React (JavaScript), Context API, Fetch API, CSS3.
 
 Backend: Java, Spring Boot, Spring Data JPA, Web Starter.
 
 Architecture: Client-Server architecture with RESTful design patterns.
 
-🚀 Getting Started
+# 🚀 Getting Started
 Clone the project:
 
 Bash
